@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brian, a Fullstack Software Engineer.
+# 👋Yo, I'm Brian a Fullstack Software Engineer.
 
 - 🔭 I’m currently working on a NIL marketplace application enabling student-athletes to find deals.
 - 🌱 I’m currently learning how to be a pragmatic programmer.
