@@ -1,6 +1,6 @@
 # 👋Yo, I'm Brian a Fullstack Software Engineer.
 
-- 🔭 I’m currently working on a NIL marketplace application enabling student-athletes to find deals.
+- 🔭 This month I am diving into how to incorporate machine learning into my stock trading application, Retrocede.
 - 🌱 I’m currently learning how to be a pragmatic programmer.
 - 👥 I’m looking to collaborate on anything sports and technology-related.
 - 💬 Ask me about anything im an open book. However, if you would like some guidance python and javascript.
